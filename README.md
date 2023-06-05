@@ -19,7 +19,7 @@
 
 ## 功能快捷键
 
-撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd>
+撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd><br>
 重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
 加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd>
 斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd>
