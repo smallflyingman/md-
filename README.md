@@ -20,18 +20,18 @@
 ## 功能快捷键
 
 撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd><br>
-重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
-加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd>
-斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd>
-标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
-无序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
-有序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
-检查列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
-插入代码：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>
-插入链接：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>
-插入图片：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>
-查找：<kbd>Ctrl/Command</kbd> + <kbd>F</kbd>
-替换：<kbd>Ctrl/Command</kbd> + <kbd>G</kbd>
+重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd><br>
+加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd><br>
+斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd><br>
+标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd><br>
+无序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd><br>
+有序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd><br>
+检查列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd><br>
+插入代码：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd><br>
+插入链接：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd><br>
+插入图片：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd><br>
+查找：<kbd>Ctrl/Command</kbd> + <kbd>F</kbd><br>
+替换：<kbd>Ctrl/Command</kbd> + <kbd>G</kbd><br>
 
 ## 合理的创建标题，有助于目录的生成
 
